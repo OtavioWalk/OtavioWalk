@@ -66,8 +66,8 @@
 <h2>📊 My GitHub Stats</h2>
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OtavioWalk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioWalk&layout=compact&langs_count=6&theme=dracula&hide_progress=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OtavioWalk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioWalk&layout=compact&langs_count=6&theme=dracula&hide_progress=true"/>
 </p>
 
 <h2>📫 Connect with me</h2>
